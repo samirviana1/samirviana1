@@ -15,7 +15,7 @@
 
 - ⚡ Hobbies :- Ouvir musica🎵, jogos online e aprender coisas diferentes.
 
-- 📫  Experiências profissionais: - 
+- 📫  Experiências profissionais: - Atendente - Atacadão S.A
 
 <br>
 
