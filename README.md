@@ -38,7 +38,7 @@ p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?user
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samirviana1=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="samir-pw" /></p>
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
+<p> align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 -----
