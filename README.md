@@ -35,7 +35,8 @@
 <a href="https://github.com/samirviana1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirviana1&theme=highcontrast&hide_langs_below=1" />
 </a>
-  <br>
+  
+  </br>
 
 <a href="https://github.com/samirviana1">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samirviana1&show_icons=true&theme=highcontrast&line_height=40" alt="**SEU NOME** github stats"/>
