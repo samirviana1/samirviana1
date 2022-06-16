@@ -9,13 +9,13 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 Atualmente estou aprendendo Desenvolvimento full stack Web e outras linguagens de programação
+- 🌱Formação: - Formado em Analise e desenvolvimento de sistema, Atualmente estou aprendendo Desenvolvimento full stack Web e outras linguagens de programação.
 
 - 📫 Como chegar até mim **samir_viana1@hotmail.com**
 
 - ⚡ Hobbies :- Ouvir musica🎵, jogos online e aprender coisas diferentes.
 
-- 📫  Experiências profissionais: - Atendente - Atacadão S.A
+- 📫  Experiências profissionais: - Atendente - Atacadão S.A.
 
 <br>
 
