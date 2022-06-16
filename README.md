@@ -31,13 +31,15 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="samirviana1Stats">
-</p>
+p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samirviana1_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="samir-pw" /></p>
 
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
-</p>
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samirviana1=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="samir-pw" /></p>
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 -----
 
