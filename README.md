@@ -52,6 +52,21 @@
 <img  src="https://github-profile-trophy.vercel.app/?username=Ljames666&theme=highcontrast&title=Stars,Followers,Commit,Repo&margin-w=30&margin-h=30&row=1&column=4&no-frame=true" />
 </div>
 
+</br>
+</br>
+
+## **Rede Sociais!**
+
+<a href="https://www.facebook.com/samir.batista.58">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> 
+</a>
+<a href="https://www.instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />  
+</a>
+<a href="https://www.linkedin.com/in/samir-batista-188681149/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 
 -----
