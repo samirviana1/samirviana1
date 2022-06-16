@@ -13,7 +13,7 @@
 
 - 📫 Como chegar até mim **samir_viana1@hotmail.com**
 
-- ⚡ Hobbies :- Ouvir musica🎵, jogos onines e aprender coisas diferentes.
+- ⚡ Hobbies :- Ouvir musica🎵, jogos online e aprender coisas diferentes.
 
 - 📫  Experiências profissionais: - 
 
