@@ -31,15 +31,25 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samirviana1-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adaw-pw" /></p>
+<div align="center">
+<a href="https://github.com/samirviana1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirviana1&theme=highcontrast&hide_langs_below=1" />
+</a>
 
-<br>
+<a href="https://github.com/samirviana1">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=samirviana1&show_icons=true&theme=highcontrast&line_height=40" alt="**SEU NOME** github stats"/>
+</a>
+   
+    
+<a href="https://github.com/samirviana1">
+ <img align="center" height=314 src="http://github-readme-streak-stats.herokuapp.com?user=samirviana1&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=C2CB12&currStreakLabel=C2CB12&fire=C2CB12&sideNums=00FEFE&currStreakNum=00FEFE" alt="**SEU NOME** streak-stats"/>
+</a>
+ 
+ </br>
+  </br>
+<img  src="https://github-profile-trophy.vercel.app/?username=Ljames666&theme=highcontrast&title=Stars,Followers,Commit,Repo&margin-w=30&margin-h=30&row=1&column=4&no-frame=true" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 -----
